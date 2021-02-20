@@ -49,3 +49,7 @@ nav ul.nav li a:hover {
     background-color:#465902;
     color: white;
 }
+footer {
+    text-align: center;
+    background-color: white;
+}
